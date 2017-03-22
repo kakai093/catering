@@ -1,0 +1,93 @@
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 6px;
+}
+
+.nav-set {
+  background: white;
+  letter-spacing: 2px;
+  padding: 8px;
+  color: black;
+}
+
+.left-margin {
+  margin-left: 16px;
+}
+
+.right-margin {
+  margin-right: 16px;
+}
+
+.let-space {
+    max-width: 1600px;
+    min-width: 500px;
+    position: relative;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  padding: 16px 32px;
+  opacity: 0.8;
+}
+
+.set {
+  padding: 64px;
+}
+
+.col-set {
+  padding: 12px 24px;
+}
+
+.center {
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: grey;
+}
+
+.label {
+  border-radius: 0px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #e8e8ee;
+  color: black;
+  font-size: 18px;
+}
+
+.menu {
+  padding: 64px;
+}
+
+.txt {
+  font-size: 16px;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.footer {
+  background-color: #e8e8ee;
+  padding: 32px;
+}
+
+.but {
+  color: white;
+  background-color: black;
+  border-radius: 0;
+  margin-top: 15px;
+}
